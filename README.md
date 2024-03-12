@@ -1,2 +1,2 @@
 # PWr1
-Repozytorium dotyczy przedmiotu "Zaawansowane metody programowania"
+Maciej Kmieciak 277516
