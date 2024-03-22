@@ -5,8 +5,6 @@ using namespace std;
 int main() {
 	int ile_zapalek, nr_rundy = 0, ile_zabrano;
 
-	string gracz_a, gracz_b;
-
 	bool semafor = false, czy_pomylka;
 
 	cout << "Gra w zapalki z komputerem" << endl;
