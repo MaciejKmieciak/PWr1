@@ -52,7 +52,7 @@ bool is_parallel(Vector3d v, Vector3d w) {
     double cross_x = v.y * w.z - v.z * w.y;
     double cross_y = v.z * w.x - v.x * w.z;
     double cross_z = v.x * w.y - v.y * w.x;
-    double cross_norm = cross_x * cross_x + cross_y * cross_y + cross_z * cross_z;    cout << cross_norm << endl << endl;
+    double cross_norm = cross_x * cross_x + cross_y * cross_y + cross_z * cross_z;
     return cross_norm < 1e-10;
 }
 
